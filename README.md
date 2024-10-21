@@ -1,11 +1,10 @@
-# Draw2Design
+# Draw2Design: Figma Content Generator
 
-# Figma Content Generator
-
+![Draw2Design Logo](https://via.placeholder.com/150x150?text=D2D)
 
 ## Overview
 
-Figma Content Generator is a powerful tool designed to streamline the process of creating content for Figma projects. It allows designers and developers to quickly generate frame structures with images and text, either from uploaded images or text prompts.
+Draw2Design is a powerful Figma Content Generator designed to streamline the process of creating content for Figma projects. It allows designers and developers to quickly generate frame structures with images and text, either from uploaded images or text prompts.
 
 ## Features
 
@@ -34,12 +33,12 @@ Figma Content Generator is a powerful tool designed to streamline the process of
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/figma-content-generator.git
+   git clone https://github.com/kailash51/Draw2Design.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd figma-content-generator
+   cd draw2design
    ```
 
 3. Install dependencies:
@@ -79,7 +78,7 @@ The built files will be available in the `dist` directory.
 
 ## Contributing
 
-We welcome contributions to the Figma Content Generator! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+We welcome contributions to Draw2Design! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
